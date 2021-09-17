@@ -91,27 +91,26 @@ king_of_hearts, king_of_diamonds, king_of_clubs, king_of_spades,
 ace_of_hearts, ace_of_diamonds, ace_of_clubs, ace_of_spades
 ]
 
-
-
 if __name__ == 'main': 
-
-    print(deck_of_cards[0])
-    print(deck_of_cards[1])
-    print(deck_of_cards[2])
-    print(deck_of_cards[3])
-    deck_of_cards.append(deck_of_cards[0])
-    deck_of_cards.append(deck_of_cards[1])
-    deck_of_cards.append(deck_of_cards[2])
-    deck_of_cards.append(deck_of_cards[3])
-    deck_of_cards.pop(0)
-    deck_of_cards.pop(0)
-    deck_of_cards.pop(0)
-    deck_of_cards.pop(0)
-    print(deck_of_cards[0])
-    print(deck_of_cards[1])
-    print(deck_of_cards[2])
-    print(deck_of_cards[3])
-    print(deck_of_cards[-1])
-    print(deck_of_cards[-2])
-    print(deck_of_cards[-3])
-    print(deck_of_cards[-4])
+    pass
+    # print(deck_of_cards[0])
+    # print(deck_of_cards[1])
+    # print(deck_of_cards[2])
+    # print(deck_of_cards[3])
+    # deck_of_cards.append(deck_of_cards[0])
+    # deck_of_cards.append(deck_of_cards[1])
+    # deck_of_cards.append(deck_of_cards[2])
+    # deck_of_cards.append(deck_of_cards[3])
+    # deck_of_cards.pop(0)
+    # deck_of_cards.pop(0)
+    # deck_of_cards.pop(0)
+    # deck_of_cards.pop(0)
+    # print(deck_of_cards[0])
+    # print(deck_of_cards[1])
+    # print(deck_of_cards[2])
+    # print(deck_of_cards[3])
+    # print(deck_of_cards[-1])
+    # print(deck_of_cards[-2])
+    # print(deck_of_cards[-3])
+    # print(deck_of_cards[-4])
+    
